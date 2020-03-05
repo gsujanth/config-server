@@ -1,2 +1,6 @@
-greetings:
-  message: 'good afternoon'
+spring:
+  profiles:
+    active: qa
+
+profile:
+  selected: qa

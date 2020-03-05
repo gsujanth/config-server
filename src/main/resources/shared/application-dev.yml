@@ -1,2 +1,6 @@
-greetings:
-  message: 'good morning'
+spring:
+  profiles:
+    active: dev
+
+profile:
+  selected: dev

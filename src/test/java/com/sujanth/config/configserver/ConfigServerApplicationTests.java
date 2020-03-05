@@ -1,10 +1,10 @@
-package com.sujanth.configserver.conser;
+package com.sujanth.config.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConSerApplicationTests {
+class ConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {

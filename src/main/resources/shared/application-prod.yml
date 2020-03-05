@@ -1,2 +1,6 @@
-greetings:
-  message: 'good night'
+spring:
+  profiles:
+    active: prod
+
+profile:
+  selected: prod
